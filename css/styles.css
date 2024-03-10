@@ -41,6 +41,9 @@ ul {
 .navigation-list-item:hover {
   color: #404bbf;
 }
+.navigation-list-item:focus {
+  color: #404bbf;
+}
 
 /* address section .address-list {} */
 .address {
@@ -55,6 +58,9 @@ ul {
   text-decoration: none;
 }
 .address-list-item:hover {
+  color: #404bbf;
+}
+.address-list-item:focus {
   color: #404bbf;
 }
 
@@ -87,10 +93,7 @@ ul {
   background: #404bbf;
 }
 
-/* our features section .features {} .features-list {} */
-.features-hiden-object {
-  display: none;
-}
+/* our features section .features {} .features-list {} .features-hiden-object {} */
 .features-list-header {
   font-weight: 500;
   font-size: 20px;
