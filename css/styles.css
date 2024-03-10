@@ -25,6 +25,9 @@ ul {
 .logo-header-span {
   color: #2e2f42;
 }
+.logo-header-span:hover {
+  color: #404bbf;
+}
 
 /* nav section .navigation-list {} */
 .navigation-list-item {
